@@ -63,7 +63,8 @@
 				"F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
 				"F:/Unreal Project/Jump/Jump/Content/Prefabs/NewBlueprint.uasset",
-				"F:/Unreal Project/Jump/Jump/Content/Controls/IMC_Char.uasset"
+				"F:/Unreal Project/Jump/Jump/Content/Controls/IMC_Char.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/Prefabs/Breakable_Block.uasset"
 			]
 		}
 	]
