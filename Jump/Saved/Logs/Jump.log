@@ -15229,3 +15229,36 @@ Script Stack (0 frames) :
 [2024.05.14-02.44.06:139][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Prefabs/JumpPad_Auto1
 [2024.05.14-02.44.06:139][391]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/JumpPad_Auto17B969C8740E97D8B57D76690FC68E2AC.tmp' to 'F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/Prefabs/JumpPad_Auto1.uasset'
 [2024.05.14-02.44.06:139][391]LogFileHelpers: Auto-saving content packages took 0.085
+[2024.05.14-02.44.52:000][449]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.14-02.44.52:037][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.14-02.44.53:880][595]BlueprintLog: New page: Compile Breakable_Block
+[2024.05.14-02.44.53:909][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.14-02.44.55:353][739]BlueprintLog: New page: Compile Spike
+[2024.05.14-02.44.55:379][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.14-02.44.56:858][889]BlueprintLog: New page: Compile JumpPad
+[2024.05.14-02.44.56:888][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.14-02.44.58:840][103]LogViewport: Scene viewport resized to 1542x711, mode Windowed.
+[2024.05.14-02.44.58:858][104]LogViewport: Scene viewport resized to 1542x719, mode Windowed.
+[2024.05.14-02.44.58:878][105]LogViewport: Scene viewport resized to 1542x734, mode Windowed.
+[2024.05.14-02.44.58:900][106]LogViewport: Scene viewport resized to 1542x762, mode Windowed.
+[2024.05.14-02.44.58:924][107]LogViewport: Scene viewport resized to 1542x812, mode Windowed.
+[2024.05.14-02.44.58:947][108]LogViewport: Scene viewport resized to 1542x869, mode Windowed.
+[2024.05.14-02.44.58:973][109]LogViewport: Scene viewport resized to 1542x931, mode Windowed.
+[2024.05.14-02.44.58:998][110]LogViewport: Scene viewport resized to 1542x979, mode Windowed.
+[2024.05.14-02.44.59:025][111]LogViewport: Scene viewport resized to 1542x1010, mode Windowed.
+[2024.05.14-02.44.59:052][112]LogViewport: Scene viewport resized to 1542x1021, mode Windowed.
+[2024.05.14-02.44.59:078][113]LogViewport: Scene viewport resized to 1542x1022, mode Windowed.
+[2024.05.14-02.44.59:109][114]LogViewport: Scene viewport resized to 1542x1027, mode Windowed.
+[2024.05.14-02.44.59:127][115]LogViewport: Scene viewport resized to 1542x1031, mode Windowed.
+[2024.05.14-02.44.59:155][116]LogViewport: Scene viewport resized to 1542x1033, mode Windowed.
+[2024.05.14-02.52.42:814][806]LogViewport: Scene viewport resized to 1542x1034, mode Windowed.
+[2024.05.14-02.52.42:833][807]LogViewport: Scene viewport resized to 1542x1021, mode Windowed.
+[2024.05.14-02.52.42:850][808]LogViewport: Scene viewport resized to 1542x1002, mode Windowed.
+[2024.05.14-02.52.42:878][809]LogViewport: Scene viewport resized to 1542x935, mode Windowed.
+[2024.05.14-02.52.42:906][810]LogViewport: Scene viewport resized to 1542x848, mode Windowed.
+[2024.05.14-02.52.42:935][811]LogViewport: Scene viewport resized to 1542x776, mode Windowed.
+[2024.05.14-02.52.42:963][812]LogViewport: Scene viewport resized to 1542x719, mode Windowed.
+[2024.05.14-02.52.42:986][813]LogViewport: Scene viewport resized to 1542x678, mode Windowed.
+[2024.05.14-02.52.43:009][814]LogViewport: Scene viewport resized to 1542x649, mode Windowed.
+[2024.05.14-02.52.43:033][815]LogViewport: Scene viewport resized to 1542x636, mode Windowed.
+[2024.05.14-02.52.43:056][816]LogViewport: Scene viewport resized to 1542x632, mode Windowed.
