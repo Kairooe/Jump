@@ -55,7 +55,15 @@
 				"F:/Unreal Project/Jump/Jump/Content/Mesh/cube_player_1.uasset",
 				"F:/Unreal Project/Jump/Jump/Content/Mesh/cube_player_1_PhysicsAsset.uasset",
 				"C:/Users/kevin/unreal/UE_5.3/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset",
-				"F:/Unreal Project/Jump/Jump/Content/Prefabs/Wall.uasset"
+				"F:/Unreal Project/Jump/Jump/Content/Prefabs/Wall.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/Meshes/cube_player_1_PhysicsAsset.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/Meshes/cube_player_1.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/Prefabs/NewBlueprint.uasset",
+				"F:/Unreal Project/Jump/Jump/Content/Controls/IMC_Char.uasset"
 			]
 		}
 	]
