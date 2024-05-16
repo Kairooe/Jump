@@ -7389,3 +7389,677 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.16-19.29.05:759][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
 [2024.05.16-19.29.05:764][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2024.05.16-19.29.05:811][612]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.05.16-19.33.41:988][620]LogViewport: Scene viewport resized to 1613x991, mode Windowed.
+[2024.05.16-19.33.42:057][622]LogViewport: Scene viewport resized to 655x335, mode Windowed.
+[2024.05.16-19.33.42:084][623]LogViewport: Scene viewport resized to 494x225, mode Windowed.
+[2024.05.16-19.33.43:184][711]LogViewport: Scene viewport resized to 497x234, mode Windowed.
+[2024.05.16-19.33.45:302][866]LogViewport: Scene viewport resized to 497x235, mode Windowed.
+[2024.05.16-19.33.45:327][866]LogViewport: Scene viewport resized to 496x239, mode Windowed.
+[2024.05.16-19.33.45:358][866]LogViewport: Scene viewport resized to 493x251, mode Windowed.
+[2024.05.16-19.33.45:390][866]LogViewport: Scene viewport resized to 489x277, mode Windowed.
+[2024.05.16-19.33.45:420][866]LogViewport: Scene viewport resized to 490x313, mode Windowed.
+[2024.05.16-19.33.45:452][866]LogViewport: Scene viewport resized to 496x353, mode Windowed.
+[2024.05.16-19.33.45:479][866]LogViewport: Scene viewport resized to 511x412, mode Windowed.
+[2024.05.16-19.33.45:506][866]LogViewport: Scene viewport resized to 525x460, mode Windowed.
+[2024.05.16-19.33.45:531][866]LogViewport: Scene viewport resized to 536x500, mode Windowed.
+[2024.05.16-19.33.45:560][866]LogViewport: Scene viewport resized to 545x529, mode Windowed.
+[2024.05.16-19.33.45:592][866]LogViewport: Scene viewport resized to 552x559, mode Windowed.
+[2024.05.16-19.33.45:623][866]LogViewport: Scene viewport resized to 554x579, mode Windowed.
+[2024.05.16-19.33.45:654][866]LogViewport: Scene viewport resized to 555x582, mode Windowed.
+[2024.05.16-19.33.45:750][866]LogViewport: Scene viewport resized to 556x583, mode Windowed.
+[2024.05.16-19.33.45:778][866]LogViewport: Scene viewport resized to 569x589, mode Windowed.
+[2024.05.16-19.33.45:805][866]LogViewport: Scene viewport resized to 595x595, mode Windowed.
+[2024.05.16-19.33.45:832][866]LogViewport: Scene viewport resized to 633x602, mode Windowed.
+[2024.05.16-19.33.45:857][866]LogViewport: Scene viewport resized to 676x606, mode Windowed.
+[2024.05.16-19.33.45:888][866]LogViewport: Scene viewport resized to 709x608, mode Windowed.
+[2024.05.16-19.33.45:912][866]LogViewport: Scene viewport resized to 740x611, mode Windowed.
+[2024.05.16-19.33.45:937][866]LogViewport: Scene viewport resized to 754x613, mode Windowed.
+[2024.05.16-19.33.45:962][866]LogViewport: Scene viewport resized to 756x615, mode Windowed.
+[2024.05.16-19.33.46:128][866]LogViewport: Scene viewport resized to 756x614, mode Windowed.
+[2024.05.16-19.33.46:154][866]LogViewport: Scene viewport resized to 756x613, mode Windowed.
+[2024.05.16-19.34.07:010][268]LogEditorTransaction: Undo Remove Components
+[2024.05.16-19.34.12:502][599]BlueprintLog: New page: Compile Star
+[2024.05.16-19.34.12:527][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.16-19.34.18:592][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Prefabs/Star.Star_C
+[2024.05.16-19.34.18:592][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Prefabs/Star.Star_C
+[2024.05.16-19.34.18:592][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/Prefabs/Star.Star as actor: Star_C /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Star_C_2
+[2024.05.16-19.34.18:594][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/Prefabs/Star.Star as actor: Star_C /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Star_C_2
+[2024.05.16-19.34.19:880][113]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Prefabs/Star.Star_C
+[2024.05.16-19.34.19:880][113]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Prefabs/Star.Star_C
+[2024.05.16-19.34.19:883][113]LogActorFactory: Actor Factory spawned Blueprint /Game/Prefabs/Star.Star as actor: Star_C /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Star_C_UAID_74563CC1D0D122F601_1917113971
+[2024.05.16-19.34.19:883][113]LogActorFactory: Actor Factory spawned Blueprint /Game/Prefabs/Star.Star as actor: Star_C /Game/levels/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Star_C_UAID_74563CC1D0D122F601_1917113971
+[2024.05.16-19.34.21:880][268]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-19.34.21:883][268]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.16-19.34.21:883][268]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.16-19.34.21:885][268]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 69 ms)
+[2024.05.16-19.34.21:885][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-19.34.21:885][268]PIE: New page: PIE session: ThirdPersonMap (May 16, 2024, 5:34:21 AM)
+[2024.05.16-19.34.21:885][268]LogPlayLevel: Display: Creating online subsystem for client :Context_70
+[2024.05.16-19.34.21:887][268]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.05.16-19.34.21:910][269]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_ThirdPersonMap
+[2024.05.16-19.34.21:915][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005341s)
+[2024.05.16-19.34.21:915][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/ThirdPersonMap.ThirdPersonMap to /Game/levels/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005371s)
+[2024.05.16-19.34.21:926][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.16-19.34.21:931][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.34.21:931][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.34.21:932][269]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.16-19.34.21:932][269]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.16-19.34.21:932][269]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.16-19.34.21:932][269]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.16-19.34.21:932][269]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.16-19.34.21:934][269]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.16-19.34.21:934][269]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 585 ms)
+[2024.05.16-19.34.21:934][269]LogPlayLevel: PIE: World Init took: (0.002498s)
+[2024.05.16-19.34.21:934][269]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.16-19.34.21:934][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-19.34.21:934][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-19.34.21:934][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-19.34.21:934][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-19.34.21:934][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-19.34.21:936][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-19.34.21:977][269]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Google display)
+[2024.05.16-19.34.21:977][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-19.34.21:977][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-19.34.21:977][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-19.34.21:978][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.05.16-19.34.21:978][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.05.16-19.34.21:979][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.05.16-19.34.21:979][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.05.16-19.34.21:979][269]LogInit: FAudioDevice initialized with ID 43.
+[2024.05.16-19.34.21:979][269]LogAudio: Display: Audio Device (ID: 43) registered with world 'ThirdPersonMap'.
+[2024.05.16-19.34.21:979][269]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.05.16-19.34.21:981][269]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.16-19.34.21:983][269]LogWorld: Bringing World /Game/levels/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.16-12.34.21
+[2024.05.16-19.34.21:983][269]LogWorld: Bringing up level for play took: 0.002137
+[2024.05.16-19.34.21:985][269]PIE: Server logged in
+[2024.05.16-19.34.21:986][269]PIE: Play in editor total start time 0.103 seconds.
+[2024.05.16-19.34.23:092][357]LogNet: Browse: /Game/levels/NewMap
+[2024.05.16-19.34.23:092][357]LogLoad: LoadMap: /Game/levels/NewMap
+[2024.05.16-19.34.23:092][357]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_ThirdPersonMap
+[2024.05.16-19.34.23:092][357]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.34.23:092][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.34.23:092][357]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.16-19.34.23:143][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-19.34.23:144][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.16-19.34.23:147][357]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_NewMap
+[2024.05.16-19.34.23:148][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2024.05.16-19.34.23:148][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/NewMap.NewMap to /Game/levels/UEDPIE_0_NewMap.NewMap (0.001199s)
+[2024.05.16-19.34.23:148][357]LogAudio: Display: Audio Device (ID: 43) registered with world 'NewMap'.
+[2024.05.16-19.34.23:148][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.34.23:148][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.34.23:149][357]LogAIModule: Creating AISystem for world NewMap
+[2024.05.16-19.34.23:149][357]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2024.05.16-19.34.23:149][357]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.16-19.34.23:150][357]LogWorld: Bringing World /Game/levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.05.16-12.34.23
+[2024.05.16-19.34.23:150][357]LogWorld: Bringing up level for play took: 0.000336
+[2024.05.16-19.34.23:151][357]LogLoad: Took 0.059424 seconds to LoadMap(/Game/levels/UEDPIE_0_NewMap)
+[2024.05.16-19.34.23:963][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.34.23:963][421]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_NewMap
+[2024.05.16-19.34.23:963][421]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.34.23:963][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.34.23:965][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-19.34.23:968][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.34.23:978][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.34.23:978][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.05.16-19.34.23:978][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.05.16-19.34.23:980][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.05.16-19.34.23:984][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.16-19.34.24:069][423]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.05.16-19.34.35:565][263]LogSlate: Window 'Star' being destroyed
+[2024.05.16-19.34.35:579][263]LogSlate: Window 'Star' being destroyed
+[2024.05.16-19.34.35:580][263]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.34.35:580][263]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.34.35:580][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.34.49:356][561]LogContentBrowser: Attempting asset rename: Star -> NextLevel
+[2024.05.16-19.34.49:373][561]LogMetaData: Removing '/Game/Prefabs/NextLevel.NextLevel_C' ref from Metadata '/Game/Prefabs/Star.PackageMetaData'
+[2024.05.16-19.34.49:373][561]LogMetaData: Removing '/Game/Prefabs/NextLevel.SKEL_NextLevel_C' ref from Metadata '/Game/Prefabs/Star.PackageMetaData'
+[2024.05.16-19.34.49:373][561]LogMetaData: Removing '/Game/Prefabs/NextLevel.NextLevel:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/Star.PackageMetaData'
+[2024.05.16-19.34.49:373][561]LogMetaData: Removing '/Game/Prefabs/NextLevel.SKEL_NextLevel_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/Star.PackageMetaData'
+[2024.05.16-19.34.49:373][561]LogMetaData: Removing '/Game/Prefabs/NextLevel.SKEL_NextLevel_C:BndEvt__Star_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/Star.PackageMetaData'
+[2024.05.16-19.34.49:378][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.34.49:402][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.34.49:434][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/NextLevel" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/NextLevel.uasset" SILENT=true
+[2024.05.16-19.34.49:438][561]LogSavePackage: Moving output files for package: /Game/Prefabs/NextLevel
+[2024.05.16-19.34.49:438][561]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/NextLevelD5E97E1345745A23A477EC9AE95B4F35.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/NextLevel.uasset'
+[2024.05.16-19.34.49:447][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.07 sec)
+[2024.05.16-19.34.49:464][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.16-19.34.49:485][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.16-19.34.49:494][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.16-19.34.49:497][561]AssetCheck: New page: Asset Save: NextLevel
+[2024.05.16-19.34.49:497][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/NextLevel.NextLevel
+[2024.05.16-19.34.59:990][720]LogContentBrowser: Attempting asset rename: Breakable_Block -> BP_BreakableBlock
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.BP_BreakableBlock_C' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.SKEL_BP_BreakableBlock_C:CharRef' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.SKEL_BP_BreakableBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.SKEL_BP_BreakableBlock_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.SKEL_BP_BreakableBlock_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.SKEL_BP_BreakableBlock_C' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.BP_BreakableBlock_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:009][720]LogMetaData: Removing '/Game/Prefabs/BP_BreakableBlock.BP_BreakableBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/Breakable_Block.PackageMetaData'
+[2024.05.16-19.35.00:016][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.00:043][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_BreakableBlock" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_BreakableBlock.uasset" SILENT=true
+[2024.05.16-19.35.00:047][720]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_BreakableBlock
+[2024.05.16-19.35.00:047][720]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_BreakableBlockFA9A9DE947AD88004F8B22AF5BEA96B6.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_BreakableBlock.uasset'
+[2024.05.16-19.35.00:051][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/Breakable_Block" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/Breakable_Block.uasset" SILENT=true
+[2024.05.16-19.35.00:057][720]LogSavePackage: Moving output files for package: /Game/Prefabs/Breakable_Block
+[2024.05.16-19.35.00:057][720]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/Breakable_Block28ADC44249A10C84AC5072BB24EE742E.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/Breakable_Block.uasset'
+[2024.05.16-19.35.00:064][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.12 sec)
+[2024.05.16-19.35.00:065][720]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.35.00:065][720]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_BreakableBlock.BP_BreakableBlock
+[2024.05.16-19.35.00:065][720]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Breakable_Block.Breakable_Block
+[2024.05.16-19.35.00:065][720]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Breakable_Block.Breakable_Block_C
+[2024.05.16-19.35.00:065][720]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Breakable_Block.Default__Breakable_Block_C
+[2024.05.16-19.35.00:065][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.05:711][258]LogContentBrowser: Attempting asset rename: Coin -> BP_Coin
+[2024.05.16-19.35.05:728][258]LogMetaData: Removing '/Game/Prefabs/BP_Coin.BP_Coin:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/Coin.PackageMetaData'
+[2024.05.16-19.35.05:728][258]LogMetaData: Removing '/Game/Prefabs/BP_Coin.BP_Coin_C' ref from Metadata '/Game/Prefabs/Coin.PackageMetaData'
+[2024.05.16-19.35.05:728][258]LogMetaData: Removing '/Game/Prefabs/BP_Coin.SKEL_BP_Coin_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Coin.PackageMetaData'
+[2024.05.16-19.35.05:728][258]LogMetaData: Removing '/Game/Prefabs/BP_Coin.SKEL_BP_Coin_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/Coin.PackageMetaData'
+[2024.05.16-19.35.05:728][258]LogMetaData: Removing '/Game/Prefabs/BP_Coin.SKEL_BP_Coin_C' ref from Metadata '/Game/Prefabs/Coin.PackageMetaData'
+[2024.05.16-19.35.05:728][258]LogMetaData: Removing '/Game/Prefabs/BP_Coin.BP_Coin_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Coin.PackageMetaData'
+[2024.05.16-19.35.05:733][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.05:759][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_Coin" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_Coin.uasset" SILENT=true
+[2024.05.16-19.35.05:762][258]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_Coin
+[2024.05.16-19.35.05:762][258]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_Coin938DB94F4A9774FF1130D6819C0579AE.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_Coin.uasset'
+[2024.05.16-19.35.05:766][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/Coin" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/Coin.uasset" SILENT=true
+[2024.05.16-19.35.05:766][258]LogSavePackage: Moving output files for package: /Game/Prefabs/Coin
+[2024.05.16-19.35.05:766][258]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/Coin646388324A96384461A37AAA0A4D295D.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/Coin.uasset'
+[2024.05.16-19.35.05:774][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.16 sec)
+[2024.05.16-19.35.05:775][258]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.35.05:775][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_Coin.BP_Coin
+[2024.05.16-19.35.05:775][258]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Coin.Coin
+[2024.05.16-19.35.05:775][258]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Coin.Coin_C
+[2024.05.16-19.35.05:775][258]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Coin.Default__Coin_C
+[2024.05.16-19.35.05:775][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.11:066][792]LogContentBrowser: Attempting asset rename: JumpPad -> BP_JumpPad
+[2024.05.16-19.35.11:084][792]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad.BP_JumpPad:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/JumpPad.PackageMetaData'
+[2024.05.16-19.35.11:084][792]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad.BP_JumpPad_C' ref from Metadata '/Game/Prefabs/JumpPad.PackageMetaData'
+[2024.05.16-19.35.11:084][792]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad.SKEL_BP_JumpPad_C:BndEvt__JumpPad_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/JumpPad.PackageMetaData'
+[2024.05.16-19.35.11:084][792]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad.SKEL_BP_JumpPad_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/JumpPad.PackageMetaData'
+[2024.05.16-19.35.11:084][792]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad.SKEL_BP_JumpPad_C' ref from Metadata '/Game/Prefabs/JumpPad.PackageMetaData'
+[2024.05.16-19.35.11:089][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.11:116][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_JumpPad" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_JumpPad.uasset" SILENT=true
+[2024.05.16-19.35.11:118][792]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_JumpPad
+[2024.05.16-19.35.11:118][792]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_JumpPadFB460B6B4E806256E1D4F09E2538BBF0.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_JumpPad.uasset'
+[2024.05.16-19.35.11:123][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/JumpPad" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/JumpPad.uasset" SILENT=true
+[2024.05.16-19.35.11:129][792]LogSavePackage: Moving output files for package: /Game/Prefabs/JumpPad
+[2024.05.16-19.35.11:129][792]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/JumpPad44018378436416A60D947AAB51698113.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/JumpPad.uasset'
+[2024.05.16-19.35.11:135][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.21 sec)
+[2024.05.16-19.35.11:136][792]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.35.11:136][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_JumpPad.BP_JumpPad
+[2024.05.16-19.35.11:136][792]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/JumpPad.JumpPad
+[2024.05.16-19.35.11:136][792]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/JumpPad.JumpPad_C
+[2024.05.16-19.35.11:136][792]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/JumpPad.Default__JumpPad_C
+[2024.05.16-19.35.11:136][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.23:009][ 31]LogContentBrowser: Attempting asset rename: JumpPad_Sideway -> BP_JumpPad_Sideway
+[2024.05.16-19.35.23:026][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.BP_JumpPad_Sideway_C' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:026][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.SKEL_BP_JumpPad_Sideway_C:CharRef' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.SKEL_BP_JumpPad_Sideway_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.SKEL_BP_JumpPad_Sideway_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.SKEL_BP_JumpPad_Sideway_C:BndEvt__JumpPad_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.SKEL_BP_JumpPad_Sideway_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.SKEL_BP_JumpPad_Sideway_C' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.BP_JumpPad_Sideway_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:027][ 31]LogMetaData: Removing '/Game/Prefabs/BP_JumpPad_Sideway.BP_JumpPad_Sideway_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/JumpPad_Sideway.PackageMetaData'
+[2024.05.16-19.35.23:032][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.23:061][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.23:096][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_JumpPad_Sideway" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_JumpPad_Sideway.uasset" SILENT=true
+[2024.05.16-19.35.23:102][ 31]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_JumpPad_Sideway
+[2024.05.16-19.35.23:102][ 31]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_JumpPad_SidewayBA1E3AF34105129BB73994964213EFE4.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_JumpPad_Sideway.uasset'
+[2024.05.16-19.35.23:105][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/JumpPad_Sideway" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/JumpPad_Sideway.uasset" SILENT=true
+[2024.05.16-19.35.23:105][ 31]LogSavePackage: Moving output files for package: /Game/Prefabs/JumpPad_Sideway
+[2024.05.16-19.35.23:106][ 31]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/JumpPad_SidewayCF5615FB41EC1C3C8B86E5BCA8F22B9C.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/JumpPad_Sideway.uasset'
+[2024.05.16-19.35.23:112][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.29 sec)
+[2024.05.16-19.35.23:113][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.35.23:113][ 31]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_JumpPad_Sideway.BP_JumpPad_Sideway
+[2024.05.16-19.35.23:113][ 31]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway
+[2024.05.16-19.35.23:113][ 31]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/JumpPad_Sideway.JumpPad_Sideway_C
+[2024.05.16-19.35.23:113][ 31]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/JumpPad_Sideway.Default__JumpPad_Sideway_C
+[2024.05.16-19.35.28:101][524]LogContentBrowser: Attempting asset rename: NextLevel -> BP-NextLevel
+[2024.05.16-19.35.28:119][524]LogMetaData: Removing '/Game/Prefabs/BP-NextLevel.BP-NextLevel_C' ref from Metadata '/Game/Prefabs/NextLevel.PackageMetaData'
+[2024.05.16-19.35.28:119][524]LogMetaData: Removing '/Game/Prefabs/BP-NextLevel.SKEL_BP-NextLevel_C' ref from Metadata '/Game/Prefabs/NextLevel.PackageMetaData'
+[2024.05.16-19.35.28:119][524]LogMetaData: Removing '/Game/Prefabs/BP-NextLevel.SKEL_BP-NextLevel_C:BndEvt__Star_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/NextLevel.PackageMetaData'
+[2024.05.16-19.35.28:119][524]LogMetaData: Removing '/Game/Prefabs/BP-NextLevel.SKEL_BP-NextLevel_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/NextLevel.PackageMetaData'
+[2024.05.16-19.35.28:119][524]LogMetaData: Removing '/Game/Prefabs/BP-NextLevel.BP-NextLevel:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/NextLevel.PackageMetaData'
+[2024.05.16-19.35.28:123][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.28:152][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP-NextLevel" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP-NextLevel.uasset" SILENT=true
+[2024.05.16-19.35.28:155][524]LogSavePackage: Moving output files for package: /Game/Prefabs/BP-NextLevel
+[2024.05.16-19.35.28:155][524]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP-NextLevel9701F08F4C19879558E6F9BD8C656AE2.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP-NextLevel.uasset'
+[2024.05.16-19.35.28:167][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.33 sec)
+[2024.05.16-19.35.28:183][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.16-19.35.28:194][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.16-19.35.28:204][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.16-19.35.28:206][524]AssetCheck: New page: Asset Save: BP-NextLevel
+[2024.05.16-19.35.28:206][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP-NextLevel.BP-NextLevel
+[2024.05.16-19.35.28:206][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.33:496][ 54]LogContentBrowser: Attempting asset rename: BP-NextLevel -> BP_NextLevel
+[2024.05.16-19.35.33:515][ 54]LogMetaData: Removing '/Game/Prefabs/BP_NextLevel.BP_NextLevel_C' ref from Metadata '/Game/Prefabs/BP-NextLevel.PackageMetaData'
+[2024.05.16-19.35.33:515][ 54]LogMetaData: Removing '/Game/Prefabs/BP_NextLevel.SKEL_BP_NextLevel_C' ref from Metadata '/Game/Prefabs/BP-NextLevel.PackageMetaData'
+[2024.05.16-19.35.33:515][ 54]LogMetaData: Removing '/Game/Prefabs/BP_NextLevel.SKEL_BP_NextLevel_C:BndEvt__Star_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/BP-NextLevel.PackageMetaData'
+[2024.05.16-19.35.33:515][ 54]LogMetaData: Removing '/Game/Prefabs/BP_NextLevel.SKEL_BP_NextLevel_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/BP-NextLevel.PackageMetaData'
+[2024.05.16-19.35.33:515][ 54]LogMetaData: Removing '/Game/Prefabs/BP_NextLevel.BP_NextLevel:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/BP-NextLevel.PackageMetaData'
+[2024.05.16-19.35.33:519][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.33:542][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_NextLevel" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_NextLevel.uasset" SILENT=true
+[2024.05.16-19.35.33:544][ 54]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_NextLevel
+[2024.05.16-19.35.33:544][ 54]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_NextLevelC3C0D05A4145EE9C5318D7989FE00BF3.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_NextLevel.uasset'
+[2024.05.16-19.35.33:556][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.37 sec)
+[2024.05.16-19.35.33:572][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.16-19.35.33:583][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.16-19.35.33:594][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.16-19.35.33:596][ 54]AssetCheck: New page: Asset Save: BP_NextLevel
+[2024.05.16-19.35.33:596][ 54]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_NextLevel.BP_NextLevel
+[2024.05.16-19.35.33:596][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.40:326][778]LogContentBrowser: Attempting asset rename: SawBlade -> BP_SawBlade
+[2024.05.16-19.35.40:344][778]LogMetaData: Removing '/Game/Prefabs/BP_SawBlade.SKEL_BP_SawBlade_C' ref from Metadata '/Game/Prefabs/SawBlade.PackageMetaData'
+[2024.05.16-19.35.40:344][778]LogMetaData: Removing '/Game/Prefabs/BP_SawBlade.BP_SawBlade_C' ref from Metadata '/Game/Prefabs/SawBlade.PackageMetaData'
+[2024.05.16-19.35.40:344][778]LogMetaData: Removing '/Game/Prefabs/BP_SawBlade.SKEL_BP_SawBlade_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/SawBlade.PackageMetaData'
+[2024.05.16-19.35.40:344][778]LogMetaData: Removing '/Game/Prefabs/BP_SawBlade.SKEL_BP_SawBlade_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/SawBlade.PackageMetaData'
+[2024.05.16-19.35.40:344][778]LogMetaData: Removing '/Game/Prefabs/BP_SawBlade.BP_SawBlade_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/SawBlade.PackageMetaData'
+[2024.05.16-19.35.40:348][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.40:374][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.40:408][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_SawBlade" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_SawBlade.uasset" SILENT=true
+[2024.05.16-19.35.40:410][778]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_SawBlade
+[2024.05.16-19.35.40:410][778]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_SawBladeCA2CEC0B4B33227F48909D87262F594F.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_SawBlade.uasset'
+[2024.05.16-19.35.40:418][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.44 sec)
+[2024.05.16-19.35.40:433][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.16-19.35.40:445][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.16-19.35.40:454][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.16-19.35.40:457][778]AssetCheck: New page: Asset Save: BP_SawBlade
+[2024.05.16-19.35.40:457][778]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_SawBlade.BP_SawBlade
+[2024.05.16-19.35.45:239][267]LogContentBrowser: Attempting asset rename: Spike -> BP_Spike
+[2024.05.16-19.35.45:257][267]LogMetaData: Removing '/Game/Prefabs/BP_Spike.BP_Spike:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/Spike.PackageMetaData'
+[2024.05.16-19.35.45:257][267]LogMetaData: Removing '/Game/Prefabs/BP_Spike.BP_Spike_C' ref from Metadata '/Game/Prefabs/Spike.PackageMetaData'
+[2024.05.16-19.35.45:257][267]LogMetaData: Removing '/Game/Prefabs/BP_Spike.SKEL_BP_Spike_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Spike.PackageMetaData'
+[2024.05.16-19.35.45:257][267]LogMetaData: Removing '/Game/Prefabs/BP_Spike.SKEL_BP_Spike_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/Spike.PackageMetaData'
+[2024.05.16-19.35.45:257][267]LogMetaData: Removing '/Game/Prefabs/BP_Spike.SKEL_BP_Spike_C' ref from Metadata '/Game/Prefabs/Spike.PackageMetaData'
+[2024.05.16-19.35.45:257][267]LogMetaData: Removing '/Game/Prefabs/BP_Spike.BP_Spike_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Spike.PackageMetaData'
+[2024.05.16-19.35.45:263][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.45:285][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_Spike" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_Spike.uasset" SILENT=true
+[2024.05.16-19.35.45:288][267]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_Spike
+[2024.05.16-19.35.45:288][267]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_Spike6C64F6E84FB7222A067039BBA1F18DCC.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_Spike.uasset'
+[2024.05.16-19.35.45:291][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/Spike" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/Spike.uasset" SILENT=true
+[2024.05.16-19.35.45:291][267]LogSavePackage: Moving output files for package: /Game/Prefabs/Spike
+[2024.05.16-19.35.45:291][267]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/Spike7272ECF44303064C539338861CB3B3D4.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/Spike.uasset'
+[2024.05.16-19.35.45:299][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.47 sec)
+[2024.05.16-19.35.45:300][267]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.35.45:300][267]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_Spike.BP_Spike
+[2024.05.16-19.35.45:300][267]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Spike.Spike
+[2024.05.16-19.35.45:300][267]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Spike.Spike_C
+[2024.05.16-19.35.45:300][267]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Spike.Default__Spike_C
+[2024.05.16-19.35.45:300][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.35.51:533][871]LogContentBrowser: Attempting asset rename: Wall -> BP_Wall
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.BP_Wall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.BP_Wall_C' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.SKEL_BP_Wall_C:CharRef' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.SKEL_BP_Wall_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.SKEL_BP_Wall_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.SKEL_BP_Wall_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.SKEL_BP_Wall_C' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.BP_Wall_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:551][871]LogMetaData: Removing '/Game/Prefabs/BP_Wall.BP_Wall_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/Wall.PackageMetaData'
+[2024.05.16-19.35.51:555][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.35.51:584][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_Wall" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_Wall.uasset" SILENT=true
+[2024.05.16-19.35.51:588][871]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_Wall
+[2024.05.16-19.35.51:588][871]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_Wall91E713AB4039B17178AC299CDED74F2C.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_Wall.uasset'
+[2024.05.16-19.35.51:591][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/Wall" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/Wall.uasset" SILENT=true
+[2024.05.16-19.35.51:592][871]LogSavePackage: Moving output files for package: /Game/Prefabs/Wall
+[2024.05.16-19.35.51:592][871]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/WallC801A71C497A2D7791299FB752FBD012.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/Wall.uasset'
+[2024.05.16-19.35.51:598][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.52 sec)
+[2024.05.16-19.35.51:599][871]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.35.51:599][871]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_Wall.BP_Wall
+[2024.05.16-19.35.51:599][871]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Wall.Wall
+[2024.05.16-19.35.51:599][871]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Wall.Wall_C
+[2024.05.16-19.35.51:599][871]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Wall.Default__Wall_C
+[2024.05.16-19.35.51:599][871]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.36.08:705][681]LogContentBrowser: Attempting asset rename: Wall_no_top -> BP_WallNoTop
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.BP_WallNoTop_C' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.SKEL_BP_WallNoTop_C:CharRef' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.SKEL_BP_WallNoTop_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.SKEL_BP_WallNoTop_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.SKEL_BP_WallNoTop_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.SKEL_BP_WallNoTop_C' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.BP_WallNoTop_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:722][681]LogMetaData: Removing '/Game/Prefabs/BP_WallNoTop.BP_WallNoTop_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/Wall_no_top.PackageMetaData'
+[2024.05.16-19.36.08:727][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.36.08:756][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_WallNoTop" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_WallNoTop.uasset" SILENT=true
+[2024.05.16-19.36.08:761][681]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_WallNoTop
+[2024.05.16-19.36.08:761][681]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_WallNoTopEC4E06864DCDD2D2E70228943B5353E3.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_WallNoTop.uasset'
+[2024.05.16-19.36.08:765][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/Wall_no_top" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/Wall_no_top.uasset" SILENT=true
+[2024.05.16-19.36.08:772][681]LogSavePackage: Moving output files for package: /Game/Prefabs/Wall_no_top
+[2024.05.16-19.36.08:772][681]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/Wall_no_top9B1AD4364BA95E84B5D2FD8518138859.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/Wall_no_top.uasset'
+[2024.05.16-19.36.08:779][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.57 sec)
+[2024.05.16-19.36.08:780][681]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.36.08:780][681]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_WallNoTop.BP_WallNoTop
+[2024.05.16-19.36.08:780][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Wall_no_top.Wall_no_top
+[2024.05.16-19.36.08:780][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Wall_no_top.Wall_no_top_C
+[2024.05.16-19.36.08:780][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/Wall_no_top.Default__Wall_no_top_C
+[2024.05.16-19.36.08:781][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.36.30:157][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Prefabs/WarpPipe.WarpPipe
+[2024.05.16-19.36.30:157][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.36.30:157][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.37.00:600][119]LogContentBrowser: Attempting asset rename: WarpPipe -> BP_WarpPipe
+[2024.05.16-19.37.00:617][119]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipe.BP_WarpPipe_C' ref from Metadata '/Game/Prefabs/WarpPipe.PackageMetaData'
+[2024.05.16-19.37.00:617][119]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipe.SKEL_BP_WarpPipe_C' ref from Metadata '/Game/Prefabs/WarpPipe.PackageMetaData'
+[2024.05.16-19.37.00:617][119]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipe.BP_WarpPipe:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Prefabs/WarpPipe.PackageMetaData'
+[2024.05.16-19.37.00:617][119]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipe.BP_WarpPipe_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/WarpPipe.PackageMetaData'
+[2024.05.16-19.37.00:617][119]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipe.SKEL_BP_WarpPipe_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/WarpPipe.PackageMetaData'
+[2024.05.16-19.37.00:617][119]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipe.SKEL_BP_WarpPipe_C:BndEvt__WarpPipe_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/WarpPipe.PackageMetaData'
+[2024.05.16-19.37.00:620][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.37.00:641][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_WarpPipe" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_WarpPipe.uasset" SILENT=true
+[2024.05.16-19.37.00:646][119]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_WarpPipe
+[2024.05.16-19.37.00:646][119]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_WarpPipe0B52F84C47A98BFE4F7C98A0DB340E16.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_WarpPipe.uasset'
+[2024.05.16-19.37.00:655][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.60 sec)
+[2024.05.16-19.37.00:673][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.16-19.37.00:686][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.16-19.37.00:696][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.16-19.37.00:698][119]AssetCheck: New page: Asset Save: BP_WarpPipe
+[2024.05.16-19.37.00:698][119]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_WarpPipe.BP_WarpPipe
+[2024.05.16-19.37.00:698][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.37.11:860][332]LogContentBrowser: Attempting asset rename: WarpPipe1 -> BP_WarpPipeReverse
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.SKEL_BP_WarpPipeReverse_C' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.BP_WarpPipeReverse_C' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.BP_WarpPipeReverse_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.BP_WarpPipeReverse_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.SKEL_BP_WarpPipeReverse_C:UserConstructionScript' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.SKEL_BP_WarpPipeReverse_C:BndEvt__WarpPipe_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.SKEL_BP_WarpPipeReverse_C:ReceiveBeginPlay' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:877][332]LogMetaData: Removing '/Game/Prefabs/BP_WarpPipeReverse.SKEL_BP_WarpPipeReverse_C:CharRef' ref from Metadata '/Game/Prefabs/WarpPipe1.PackageMetaData'
+[2024.05.16-19.37.11:881][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.37.11:913][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.37.11:947][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/BP_WarpPipeReverse" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_WarpPipeReverse.uasset" SILENT=true
+[2024.05.16-19.37.11:955][332]LogSavePackage: Moving output files for package: /Game/Prefabs/BP_WarpPipeReverse
+[2024.05.16-19.37.11:955][332]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_WarpPipeReverse6DEC948F476DB71B8712ACA5344B8A0E.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/BP_WarpPipeReverse.uasset'
+[2024.05.16-19.37.11:959][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prefabs/WarpPipe1" FILE="F:/Unreal Project/Jump/Jump/Content/Prefabs/WarpPipe1.uasset" SILENT=true
+[2024.05.16-19.37.11:960][332]LogSavePackage: Moving output files for package: /Game/Prefabs/WarpPipe1
+[2024.05.16-19.37.11:960][332]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/WarpPipe17CAF0BE44FBF94C61E615D90B0128B34.tmp' to 'F:/Unreal Project/Jump/Jump/Content/Prefabs/WarpPipe1.uasset'
+[2024.05.16-19.37.11:967][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.69 sec)
+[2024.05.16-19.37.11:967][332]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.37.11:967][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Prefabs/BP_WarpPipeReverse.BP_WarpPipeReverse
+[2024.05.16-19.37.11:967][332]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/WarpPipe1.WarpPipe1
+[2024.05.16-19.37.11:967][332]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/WarpPipe1.WarpPipe1_C
+[2024.05.16-19.37.11:967][332]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Prefabs/WarpPipe1.Default__WarpPipe1_C
+[2024.05.16-19.37.30:476][167]LogViewport: Scene viewport resized to 1490x658, mode Windowed.
+[2024.05.16-19.37.30:510][170]LogViewport: Scene viewport resized to 1492x658, mode Windowed.
+[2024.05.16-19.37.30:526][171]LogViewport: Scene viewport resized to 1497x658, mode Windowed.
+[2024.05.16-19.37.30:563][172]LogViewport: Scene viewport resized to 1515x658, mode Windowed.
+[2024.05.16-19.37.30:581][173]LogViewport: Scene viewport resized to 1539x658, mode Windowed.
+[2024.05.16-19.37.30:606][174]LogViewport: Scene viewport resized to 1572x658, mode Windowed.
+[2024.05.16-19.37.30:632][175]LogViewport: Scene viewport resized to 1611x658, mode Windowed.
+[2024.05.16-19.37.30:652][176]LogViewport: Scene viewport resized to 1647x658, mode Windowed.
+[2024.05.16-19.37.30:675][177]LogViewport: Scene viewport resized to 1686x658, mode Windowed.
+[2024.05.16-19.37.30:699][178]LogViewport: Scene viewport resized to 1729x658, mode Windowed.
+[2024.05.16-19.37.30:718][179]LogViewport: Scene viewport resized to 1764x658, mode Windowed.
+[2024.05.16-19.37.30:750][180]LogViewport: Scene viewport resized to 1823x658, mode Windowed.
+[2024.05.16-19.37.30:787][181]LogViewport: Scene viewport resized to 1886x658, mode Windowed.
+[2024.05.16-19.37.30:820][182]LogViewport: Scene viewport resized to 1932x658, mode Windowed.
+[2024.05.16-19.37.30:853][183]LogViewport: Scene viewport resized to 1955x658, mode Windowed.
+[2024.05.16-19.37.30:886][184]LogViewport: Scene viewport resized to 1973x658, mode Windowed.
+[2024.05.16-19.37.30:919][185]LogViewport: Scene viewport resized to 1988x658, mode Windowed.
+[2024.05.16-19.37.30:951][186]LogViewport: Scene viewport resized to 1990x658, mode Windowed.
+[2024.05.16-19.37.31:988][307]LogViewport: Scene viewport resized to 1990x657, mode Windowed.
+[2024.05.16-19.37.32:004][308]LogViewport: Scene viewport resized to 1990x664, mode Windowed.
+[2024.05.16-19.37.32:039][309]LogViewport: Scene viewport resized to 1990x693, mode Windowed.
+[2024.05.16-19.37.32:061][310]LogViewport: Scene viewport resized to 1990x720, mode Windowed.
+[2024.05.16-19.37.32:086][311]LogViewport: Scene viewport resized to 1990x754, mode Windowed.
+[2024.05.16-19.37.32:109][312]LogViewport: Scene viewport resized to 1990x790, mode Windowed.
+[2024.05.16-19.37.32:133][313]LogViewport: Scene viewport resized to 1990x817, mode Windowed.
+[2024.05.16-19.37.32:158][314]LogViewport: Scene viewport resized to 1990x839, mode Windowed.
+[2024.05.16-19.37.32:183][315]LogViewport: Scene viewport resized to 1990x857, mode Windowed.
+[2024.05.16-19.37.32:206][316]LogViewport: Scene viewport resized to 1990x866, mode Windowed.
+[2024.05.16-19.37.32:227][317]LogViewport: Scene viewport resized to 1990x868, mode Windowed.
+[2024.05.16-19.37.32:382][334]LogViewport: Scene viewport resized to 1990x867, mode Windowed.
+[2024.05.16-19.37.32:409][336]LogViewport: Scene viewport resized to 1990x866, mode Windowed.
+[2024.05.16-19.37.32:430][337]LogViewport: Scene viewport resized to 1990x863, mode Windowed.
+[2024.05.16-19.37.32:449][338]LogViewport: Scene viewport resized to 1990x860, mode Windowed.
+[2024.05.16-19.37.32:470][339]LogViewport: Scene viewport resized to 1990x857, mode Windowed.
+[2024.05.16-19.37.32:490][340]LogViewport: Scene viewport resized to 1990x852, mode Windowed.
+[2024.05.16-19.37.32:512][341]LogViewport: Scene viewport resized to 1990x848, mode Windowed.
+[2024.05.16-19.37.32:533][342]LogViewport: Scene viewport resized to 1990x841, mode Windowed.
+[2024.05.16-19.37.32:554][343]LogViewport: Scene viewport resized to 1990x835, mode Windowed.
+[2024.05.16-19.37.32:574][344]LogViewport: Scene viewport resized to 1990x831, mode Windowed.
+[2024.05.16-19.37.32:595][345]LogViewport: Scene viewport resized to 1990x829, mode Windowed.
+[2024.05.16-19.37.32:615][346]LogViewport: Scene viewport resized to 1990x825, mode Windowed.
+[2024.05.16-19.37.32:636][347]LogViewport: Scene viewport resized to 1990x823, mode Windowed.
+[2024.05.16-19.37.35:185][610]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.35:185][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.35:407][626]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.35:407][626]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.35:407][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.35:682][646]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.35:683][646]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.35:683][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.35:915][663]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.35:915][663]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.35:915][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.36:123][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.36:123][676]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.36:123][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.36:857][732]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.36:857][732]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.36:857][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.37:286][765]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.37:286][765]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.37:286][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.37:583][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.37:584][788]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.37:584][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.37:840][807]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.37:840][807]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.37:840][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.37.38:031][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.16-19.37.38:031][820]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.37.38:031][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.38.07:339][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.16-19.38.07:380][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/ThirdPersonMap/D/XA/DU01MBG7MWIDLYC27B6M2A_Auto5
+[2024.05.16-19.38.07:380][155]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/DU01MBG7MWIDLYC27B6M2A_Auto5202340E344F7FCFAEA4C63B3A0DEA235.tmp' to 'F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/__ExternalActors__/levels/ThirdPersonMap/D/XA/DU01MBG7MWIDLYC27B6M2A_Auto5.uasset'
+[2024.05.16-19.38.07:383][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/ThirdPersonMap/8/AB/ZOEJNZSEFHKP7H5MISJFU8_Auto5
+[2024.05.16-19.38.07:383][155]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/ZOEJNZSEFHKP7H5MISJFU8_Auto522A75F79429DAA2567DB8F866761C69C.tmp' to 'F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/__ExternalActors__/levels/ThirdPersonMap/8/AB/ZOEJNZSEFHKP7H5MISJFU8_Auto5.uasset'
+[2024.05.16-19.38.07:385][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/ThirdPersonMap/B/2D/E2MMICWH617XRHN8R12809_Auto5
+[2024.05.16-19.38.07:385][155]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/E2MMICWH617XRHN8R12809_Auto575097E464B12CACA7C9AB79F8A3E4E8A.tmp' to 'F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/__ExternalActors__/levels/ThirdPersonMap/B/2D/E2MMICWH617XRHN8R12809_Auto5.uasset'
+[2024.05.16-19.38.07:385][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/ThirdPersonMap' took 0.061
+[2024.05.16-19.38.07:385][155]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2024.05.16-19.38.07:385][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.16-19.38.07:386][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.38.07:466][155]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.05.16-19.38.07:466][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.38.07:492][155]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.16-19.38.07:492][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.16-19.38.07:499][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.05.16-19.38.07:499][155]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_ThirdPersonCharacter_Auto5537E25B1400088062CAF8492B6304749.tmp' to 'F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.05.16-19.38.07:501][155]LogFileHelpers: Auto-saving content packages took 0.116
+[2024.05.16-19.49.17:778][600]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.16-19.49.17:786][600]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.16-19.49.17:793][601]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.16-19.49.20:035][818]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.05.16-19.49.20:035][818]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.16-19.49.32:459][721]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.05.16-19.49.32:466][721]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.16-19.49.32:470][721]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.16-19.49.32:492][723]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.16-19.49.41:414][750]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2024.05.16-19.49.41:425][750]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.16-19.49.42:001][817]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2024.05.16-19.49.42:002][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.49.42:002][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.49.42:007][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.49.42:007][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.49.42:011][817]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.16-19.49.42:198][817]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.16-19.49.42:202][817]LogSlate: Took 0.003496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.16-19.51.44:027][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.16-19.51.44:033][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/ThirdPersonMap' took 0.020
+[2024.05.16-19.51.44:039][575]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2024.05.16-19.51.44:042][575]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2024.05.16-19.51.44:042][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2024.05.16-19.51.44:042][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/UI/MainMenu_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.05.16-19.51.44:044][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_Auto6
+[2024.05.16-19.51.44:044][575]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/MainMenu_Auto67C3FAA87432CB39A839D98837D4FEE90.tmp' to 'F:/Unreal Project/Jump/Jump/Saved/Autosaves/Game/UI/MainMenu_Auto6.uasset'
+[2024.05.16-19.51.44:044][575]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.05.16-19.53.23:087][919]LogSlate: Window 'MainMenu' being destroyed
+[2024.05.16-19.53.54:978][726]LogSlate: Took 0.005615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.16-19.54.22:246][545]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2024.05.16-19.55.40:976][ 97]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.16-19.55.40:976][ 97]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.16-19.56.23:301][108]BlueprintLog: New page: Compile MainMenu
+[2024.05.16-19.56.23:319][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.16-19.56.24:502][219]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.16-19.57.03:017][159]LogSlate: Window 'New Level' being destroyed
+[2024.05.16-19.57.05:384][159]LogSlate: Window 'Save Content' being destroyed
+[2024.05.16-19.57.05:398][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.57.05:426][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/ThirdPersonMap/D/XA/DU01MBG7MWIDLYC27B6M2A
+[2024.05.16-19.57.05:426][159]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/DU01MBG7MWIDLYC27B6M2AF63C976E445FA241D20E9AAE6FAFCE91.tmp' to 'F:/Unreal Project/Jump/Jump/Content/__ExternalActors__/levels/ThirdPersonMap/D/XA/DU01MBG7MWIDLYC27B6M2A.uasset'
+[2024.05.16-19.57.05:434][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/ThirdPersonMap/B/2D/E2MMICWH617XRHN8R12809
+[2024.05.16-19.57.05:434][159]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/E2MMICWH617XRHN8R1280946B1ECC146B1D474D5CCC4A221E2B30A.tmp' to 'F:/Unreal Project/Jump/Jump/Content/__ExternalActors__/levels/ThirdPersonMap/B/2D/E2MMICWH617XRHN8R12809.uasset'
+[2024.05.16-19.57.05:436][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/ThirdPersonMap/8/AB/ZOEJNZSEFHKP7H5MISJFU8
+[2024.05.16-19.57.05:436][159]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/ZOEJNZSEFHKP7H5MISJFU8617D7F7245DA3EF858C65FBD33D91423.tmp' to 'F:/Unreal Project/Jump/Jump/Content/__ExternalActors__/levels/ThirdPersonMap/8/AB/ZOEJNZSEFHKP7H5MISJFU8.uasset'
+[2024.05.16-19.57.05:446][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.74 sec)
+[2024.05.16-19.57.05:446][159]LightingResults: New page: Lighting Build
+[2024.05.16-19.57.05:458][159]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.57.05:458][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.57.05:459][159]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.16-19.57.05:460][159]MapCheck: New page: Map Check
+[2024.05.16-19.57.05:460][159]LightingResults: New page: Lighting Build
+[2024.05.16-19.57.05:468][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-19.57.05:473][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.16-19.57.05:478][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.57.05:478][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.57.05:479][159]LogAIModule: Creating AISystem for world Untitled
+[2024.05.16-19.57.05:479][159]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.16-19.57.05:502][159]LoadErrors: New page: New Map
+[2024.05.16-19.57.05:505][159]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.57.23:515][520]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.16-19.57.23:550][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/MainMenuMap" FILE="F:/Unreal Project/Jump/Jump/Content/levels/MainMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.16-19.57.23:573][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.16-19.57.23:579][520]LogSavePackage: Moving output files for package: /Game/levels/MainMenuMap
+[2024.05.16-19.57.23:579][520]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/MainMenuMap2AC330234B4F7769805D0B9139E0DD63.tmp' to 'F:/Unreal Project/Jump/Jump/Content/levels/MainMenuMap.umap'
+[2024.05.16-19.57.23:587][520]LogFileHelpers: Saving map 'MainMenuMap' took 0.063
+[2024.05.16-19.57.23:587][520]Cmd: MAP LOAD FILE="F:/Unreal Project/Jump/Jump/Content/levels/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.16-19.57.23:587][520]LightingResults: New page: Lighting Build
+[2024.05.16-19.57.23:587][520]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2024.05.16-19.57.23:598][520]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.57.23:598][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.57.23:598][520]MapCheck: New page: Map Check
+[2024.05.16-19.57.23:598][520]LightingResults: New page: Lighting Build
+[2024.05.16-19.57.23:608][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-19.57.23:609][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.16-19.57.23:610][520]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.57.23:610][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.57.23:620][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.16-19.57.23:630][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.16-19.57.23:632][520]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2024.05.16-19.57.23:632][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.57.23:632][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.57.23:633][520]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.05.16-19.57.23:648][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.16-19.57.23:658][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.16-19.57.23:662][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.16-19.57.23:662][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2024.05.16-19.57.23:663][520]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.05.16-19.57.23:663][520]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/MainMenuMap.MainMenuMap
+[2024.05.16-19.57.26:658][866]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.16-19.57.26:662][866]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.16-19.57.26:666][866]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.05.16-19.57.26:683][866]LogPlayLevel: [PlayLevel] Compiling BP_JumpPad_Sideway before play...
+[2024.05.16-19.57.26:692][866]LogPlayLevel: [PlayLevel] Compiling BP_SawBlade before play...
+[2024.05.16-19.57.26:709][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.16-19.57.26:712][866]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (3 blueprints)
+[2024.05.16-19.57.26:712][866]PIE: New page: PIE session: MainMenuMap (May 16, 2024, 5:57:26 AM)
+[2024.05.16-19.57.26:712][866]LogPlayLevel: Display: Creating online subsystem for client :Context_89
+[2024.05.16-19.57.26:713][866]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.05.16-19.57.26:720][867]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenuMap
+[2024.05.16-19.57.26:721][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000728s)
+[2024.05.16-19.57.26:721][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenuMap.MainMenuMap to /Game/levels/UEDPIE_0_MainMenuMap.MainMenuMap (0.000762s)
+[2024.05.16-19.57.26:731][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.16-19.57.26:732][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.57.26:732][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.57.26:732][867]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.05.16-19.57.26:732][867]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2024.05.16-19.57.26:732][867]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.16-19.57.26:732][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-19.57.26:732][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-19.57.26:733][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-19.57.26:733][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-19.57.26:733][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-19.57.26:734][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-19.57.26:773][867]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Google display)
+[2024.05.16-19.57.26:773][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-19.57.26:773][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-19.57.26:773][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-19.57.26:773][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.05.16-19.57.26:773][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.05.16-19.57.26:774][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.05.16-19.57.26:774][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.05.16-19.57.26:774][867]LogInit: FAudioDevice initialized with ID 44.
+[2024.05.16-19.57.26:774][867]LogAudio: Display: Audio Device (ID: 44) registered with world 'MainMenuMap'.
+[2024.05.16-19.57.26:774][867]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.05.16-19.57.26:777][867]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.16-19.57.26:777][867]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.05.16-12.57.26
+[2024.05.16-19.57.26:777][867]LogWorld: Bringing up level for play took: 0.000181
+[2024.05.16-19.57.26:778][867]PIE: Server logged in
+[2024.05.16-19.57.26:779][867]PIE: Play in editor total start time 0.117 seconds.
+[2024.05.16-19.57.30:153][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.57.30:153][259]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_MainMenuMap
+[2024.05.16-19.57.30:153][259]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.57.30:153][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.57.30:155][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-19.57.30:159][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.57.30:168][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.57.30:168][259]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.05.16-19.57.30:168][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.05.16-19.57.30:169][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.05.16-19.57.30:174][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.16-19.57.30:209][261]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.05.16-19.57.49:255][ 92]LogDerivedDataCache: C:/Users/kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1687 files in 2716 folders with total size 95 MiB.
+[2024.05.16-19.57.52:928][ 92]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.16-19.57.52:933][ 92]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.16-19.57.52:937][ 92]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.16-19.57.52:943][ 93]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.16-19.57.58:547][760]LogContentBrowser: Attempting asset rename: NewBlueprint -> MenuGameMOde
+[2024.05.16-19.57.58:551][760]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.16-19.58.08:129][730]LogContentBrowser: Attempting asset rename: MenuGameMOde -> MenuGameMode
+[2024.05.16-19.58.08:147][730]LogMetaData: Removing '/Game/RenameTmp.RenameTmp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MenuGameMOde.PackageMetaData'
+[2024.05.16-19.58.08:147][730]LogMetaData: Removing '/Game/RenameTmp.SKEL_RenameTmp_C:UserConstructionScript' ref from Metadata '/Game/MenuGameMOde.PackageMetaData'
+[2024.05.16-19.58.08:147][730]LogMetaData: Removing '/Game/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/MenuGameMOde.PackageMetaData'
+[2024.05.16-19.58.08:147][730]LogMetaData: Removing '/Game/RenameTmp.RenameTmp_C' ref from Metadata '/Game/MenuGameMOde.PackageMetaData'
+[2024.05.16-19.58.08:147][730]LogMetaData: Removing '/Game/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MenuGameMOde.PackageMetaData'
+[2024.05.16-19.58.08:147][730]LogMetaData: Removing '/Game/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MenuGameMOde.PackageMetaData'
+[2024.05.16-19.58.08:163][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.16-19.58.08:172][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.16-19.58.08:181][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.16-19.58.08:183][730]LogMetaData: Removing '/Game/MenuGameMode.MenuGameMode_C' ref from Metadata '/Game/RenameTmp.PackageMetaData'
+[2024.05.16-19.58.08:183][730]LogMetaData: Removing '/Game/MenuGameMode.SKEL_MenuGameMode_C' ref from Metadata '/Game/RenameTmp.PackageMetaData'
+[2024.05.16-19.58.08:183][730]LogMetaData: Removing '/Game/MenuGameMode.SKEL_MenuGameMode_C:UserConstructionScript' ref from Metadata '/Game/RenameTmp.PackageMetaData'
+[2024.05.16-19.58.08:183][730]LogMetaData: Removing '/Game/MenuGameMode.MenuGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/RenameTmp.PackageMetaData'
+[2024.05.16-19.58.08:183][730]LogMetaData: Removing '/Game/MenuGameMode.MenuGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RenameTmp.PackageMetaData'
+[2024.05.16-19.58.08:183][730]LogMetaData: Removing '/Game/MenuGameMode.MenuGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/RenameTmp.PackageMetaData'
+[2024.05.16-19.58.08:195][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.16-19.58.08:203][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.16-19.58.08:210][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.16-19.59.38:358][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.16-19.59.38:361][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.59.38:389][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.05.16-19.59.38:396][202]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.16-19.59.38:396][202]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/BP_ThirdPersonCharacterAAD7C67740E4E5542B8EF2B1B3EF9752.tmp' to 'F:/Unreal Project/Jump/Jump/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.16-19.59.38:398][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="F:/Unreal Project/Jump/Jump/Content/UI/MainMenu.uasset" SILENT=true
+[2024.05.16-19.59.38:401][202]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2024.05.16-19.59.38:401][202]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/MainMenu4C7C183743FAFC93617CC0949F6B5639.tmp' to 'F:/Unreal Project/Jump/Jump/Content/UI/MainMenu.uasset'
+[2024.05.16-19.59.38:402][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuGameMode" FILE="F:/Unreal Project/Jump/Jump/Content/MenuGameMode.uasset" SILENT=true
+[2024.05.16-19.59.38:404][202]LogSavePackage: Moving output files for package: /Game/MenuGameMode
+[2024.05.16-19.59.38:404][202]LogSavePackage: Moving 'F:/Unreal Project/Jump/Jump/Saved/MenuGameModeBF600E9A49EE6DC6C0EC9D9D9E738044.tmp' to 'F:/Unreal Project/Jump/Jump/Content/MenuGameMode.uasset'
+[2024.05.16-19.59.38:410][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.79 sec)
+[2024.05.16-19.59.38:412][202]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.16-19.59.38:412][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.16-19.59.38:412][202]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2024.05.16-19.59.38:412][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MenuGameMode.MenuGameMode
